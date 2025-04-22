@@ -1,5 +1,5 @@
 # Password-Play-Machine
-### This is a password machine that allows users to generate, encrypt and decrypt passwords to upgrade the complexity and security on leakage. The password generator allows users to choose their password requirements at their own comfortability of combinations.
+### This is an advanced version of the password generator. A password machine that allows users to generate, encrypt and decrypt passwords to upgrade the complexity and security on leakage. The password generator allows users to choose their password requirements at their own comfortability of combinations.
 #### Specifications:
 * Password generation
 * Password encryption
